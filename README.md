@@ -24,6 +24,7 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 - Developed **Senior TrAIning**, an AI-powered gamification project to combat cognitive decline in vulnerable populations.  
 
 ### 📄 Scientific Publication – IoT & Data Analytics Simulator  
+- Presented **NioTe** (Simulator for the Development of IoT Projects and Data Analytics) at an **International Seedbed Meeting** in **April 2021** at **Fundación de Educación Superior San José, Bogotá**.  
 - Published a **scientific research project** on **NioTe**, a **simulator for IoT project development and data analytics**.  
 - Designed to **test IoT devices** using **Machine Learning and Neural Networks** models.  
 - Helps reduce **costs, time, and human resources** in IoT network construction.  
@@ -37,8 +38,8 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 ---
 
 ## 📫 Where to find me?  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/camiloandresdg-data-scientist-engineer/](#)  
-- 💻 GitHub: [github.com/CamiloDiaz](https://github.com/CamiloDiaz)  
-- 🌐 Portfolio: [https://camiloandresdg.github.io/](#)  
+- 🔗 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/camiloandresdg-data-scientist-engineer/)  
+- 💻 GitHub: [github.com/CamiloDiaz](https://github.com/CamiloAndresDG)  
+- 🌐 Portfolio: [myportfolio.com](https://camiloandresdg.github.io/)  
 
-⭐ Feel free to explore my projects and connect with me!  
+⭐ Feel free to explore my projects and connect with me! :)  
