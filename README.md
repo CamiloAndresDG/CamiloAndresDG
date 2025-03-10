@@ -38,6 +38,7 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 ---
 
 ## 📫 Where to find me?  
+- 📧 Email: camiloandres2288@hotmail.com
 - 🔗 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/camiloandresdg-data-scientist-engineer/)  
 - 💻 GitHub: [github.com/CamiloDiaz](https://github.com/CamiloAndresDG)  
 - 🌐 Portfolio: [myportfolio.com](https://camiloandresdg.github.io/)  
