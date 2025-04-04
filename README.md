@@ -8,8 +8,8 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 - Data Engineering: **ETL, CI/CD, DevOps**  
 - Machine Learning: **scikit-learn, TensorFlow, PyTorch**
 
-📌 **Currently:**  
-- 📚 Pursuing a **[Master's in Data Science, Big Data & Artificial Intelligence](https://www.ucm.es/)** at the **Complutense University of Madrid**.  
+📌 **Currently:**
+- 📚 Pursuing a **Master's in Data Science, Big Data & Artificial Intelligence** at the **[Complutense University of Madrid](https://www.ucm.es/)**.  
 - 💼 Working at **Qaracter** as a **Business Consultant**, focusing on **ETL process optimization and workflow automation** in the banking sector.  
 
 ---
