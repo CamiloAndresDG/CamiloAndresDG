@@ -8,7 +8,7 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 - Data Engineering: **ETL, CI/CD, DevOps**  
 - Machine Learning: **scikit-learn, TensorFlow, PyTorch**
 
-📌 **Currently:**
+📌 **Currently:**  
 - 📚 Pursuing a **Master's in Data Science, Big Data & Artificial Intelligence** at the **[Complutense University of Madrid](https://www.ucm.es/)**.  
 - 💼 Working at **Qaracter** as a **Business Consultant**, focusing on **ETL process optimization and workflow automation** in the banking sector.  
 
@@ -33,35 +33,36 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 ## 💡 Personal Projects  
 
 ### 🧠 VocalMind – AI for Mental Health  
-> A machine learning-based system for detecting **depression and anxiety** through **voice analysis**.  
-> It leverages **audio spectrograms** and additional features to predict emotional states, aiming for early detection and mental health support.  
+> A machine learning-based system that detects **depression and anxiety** through **voice analysis**, leveraging **audio spectrograms** and additional features to predict emotional states.  
+> Designed for **early detection** and mental health support.  
 
-**Tech:** Machine Learning · Audio Analysis · Mental Health  
+**Tech:** Python · Machine Learning · Audio Analysis · Data Analysis · Mental Health  
 🔗 [View on GitHub](https://github.com/CamiloAndresDG/VocalMind)  
 
 ---
 
 ### 🧮 NeuralCrime – Crime Data Prediction in Los Angeles  
 > A data-driven system for **crime analysis and prediction** in Los Angeles using public crime records (2020–present).  
-> Involves data extraction, transformation, visualization, and **predictive modeling** to uncover patterns and support public safety.  
+> Involves **data extraction**, **processing**, **visualization**, and **predictive modeling** to identify patterns and support public safety initiatives.  
 
-**Tech:** Data Analysis · Predictive Modeling · Public Safety  
-🔗 [View on GitHub](https://github.com/CamiloAndresDG/NeuralCrime)  
+**Tech:** Python · PySpark · Apache Spark · Pipeline · ETL · Machine Learning · Data Analysis · Predictive Modeling · Public Safety  
+🔗 [View on GitHub](https://github.com/CamiloAndresDG/Crime_Prediction_LA)  
 
 ---
 
 ### 🌦️ NioTe – IoT & Climate Data Simulator  
-> A simulation model for generating **synthetic climate data** to support IoT project development.  
-> Uses historical data from open sources like **Datos Abiertos Colombia**, applying quality controls and **Machine Learning** to reproduce realistic weather behavior in specific Colombian regions.  
+> A simulation model for generating **synthetic climate data** to support **IoT project development**.  
+> Uses **open-source data** from sources like **Datos Abiertos Colombia**, applying quality controls and **Machine Learning** to reproduce realistic weather behavior in Colombian regions.  
 
-**Tech:** IoT · Climate Data · Simulation  
-🔗 [View on GitHub](https://github.com/CamiloAndresDG/NioTe)  
+**Tech:** Python · SQL · Machine Learning · IoT · Climate Data · Simulation  
+🔗 [View on GitHub](https://github.com/CamiloAndresDG/NIOTE)  
 
 ---
 
 ### ✈️ AereoUSB – Airline Management System in Java  
-> A **Java-based management system** created as part of a Data Structures course.  
-> Manages airline components like fleet, crew, and flights efficiently using core data structures. Improves ticketing processes and operational tracking.  
+> A **Java-based airline management system** developed for a **Data Structures course**.  
+> Efficiently handles resources like fleet, crew, pilots, and flights using core data structures.  
+> Improves ticketing processes, operations, and data handling.  
 
 **Tech:** Java · Data Structures · Management System  
 🔗 [View on GitHub](https://github.com/CamiloAndresDG/AereoUSB)  
