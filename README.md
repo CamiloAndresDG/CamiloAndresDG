@@ -32,15 +32,12 @@ I am a **Systems Engineer and Data Scientist** with experience in **data enginee
 ### 🧠 AI for Mental Health  
 - I am developing a **personal project for depression and anxiety detection** using machine learning techniques.   
 
-### 📊 Data Visualization & Insights  
-- Created **interactive dashboards** in **Tableau and Power BI** to generate valuable insights.  
-
 ---
 
 ## 📫 Where to find me?  
 - 📧 Email: camiloandres2288@hotmail.com
-- 🔗 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/camiloandresdg-data-scientist-engineer/)  
+- 🔗 LinkedIn: [LinkedIn profile]([https://www.linkedin.com/in/camiloandresdg-data-scientist-engineer/](https://www.linkedin.com/in/camiloandresdg/))  
 - 💻 GitHub: [github.com/CamiloDiaz](https://github.com/CamiloAndresDG)  
-- 🌐 Portfolio: [myportfolio.com](https://camiloandresdg.github.io/)  
+- 🌐 Portfolio: [myportfolio.com]([https://camiloandresdg.github.io/](https://incredible-bonbon-01d5f1.netlify.app/))  
 
 ⭐ Feel free to explore my projects and connect with me! :)  
