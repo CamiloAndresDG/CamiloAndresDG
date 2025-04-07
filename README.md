@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Camilo Andres Diaz Gomez  
+# 👋 Hi there! I'm Camilo Andrés Díaz Gómez  
 
 I'm a **Systems Engineer and Data Scientist** with experience in **data engineering, machine learning, and artificial intelligence**. I'm passionate about optimizing data processes, analytics, and developing scalable cloud solutions.  
 
