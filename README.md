@@ -73,6 +73,6 @@ I'm a **Systems Engineer and Data Scientist** with experience in **data engineer
 - 📧 Email: camiloandres2288@hotmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/camiloandresdg](https://www.linkedin.com/in/camiloandresdg/)  
 - 💻 GitHub: [github.com/CamiloAndresDG](https://github.com/CamiloAndresDG)  
-- 🌐 Portfolio: [myportafolio.com/home](https://incredible-bonbon-01d5f1.netlify.app/)  
+- 🌐 Portfolio: [camiloandresdg.github.io.com/home](https://camiloandresdg.github.io/)  
 
 ⭐ Feel free to explore my projects and connect with me! 😊
