@@ -9,8 +9,8 @@ I'm a **Systems Engineer and Data Scientist** with experience in **data engineer
 - Machine Learning: **scikit-learn, TensorFlow, PyTorch**
 
 📌 **Currently:**  
-- 📚 Pursuing a **Master's in Data Science, Big Data & Artificial Intelligence** at the **[Complutense University of Madrid](https://www.ucm.es/)**.  
-- 💼 Working at **Qaracter** as a **Business Consultant**, focusing on **ETL process optimization and workflow automation** in the banking sector.  
+- 📚 **Master's in Data Science, Big Data & Artificial Intelligence** at the **[Complutense University of Madrid](https://www.ucm.es/)**.  
+- 💼 Working at **Ultra Tendency** as a **Big Data Developer**, focusing on **ETL process and workflow automation** in the automotive sector.  
 
 ---
 
