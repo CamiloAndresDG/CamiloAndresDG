@@ -19,7 +19,7 @@ I'm a **Systems Engineer and Data Scientist** with experience in **data engineer
 ### 🏆 NASA International Space Apps Challenge (Two-time Global Nominee)  
 - 🌍 **Twice nominated globally** for innovative projects in data science and AI.  
 
-### 🏅 MIOTI Award – OdiseIA4Good Hackathon  
+### 🏅 Innovation Award – OdiseIA4Good Hackathon  
 - 🧩 **Winner of the MIOTI Award** at the **OdiseIA4Good Hackathon**.  
 - Developed **Senior TrAIning**, an **AI-powered gamification solution** designed to combat cognitive decline in vulnerable populations.  
 
