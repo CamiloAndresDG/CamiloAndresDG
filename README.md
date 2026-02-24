@@ -16,7 +16,7 @@ I'm a **Systems Engineer and Data Scientist** with experience in **data engineer
 
 ## 🚀 Highlighted Projects  
 
-### 🏆 NASA International Space Apps Challenge (Two-time Global Nominee)  
+### 🏆 NASA International Space Apps Challenge (Twice Global Nominee)  
 - 🌍 **Twice nominated globally** for innovative projects in data science and AI.  
 
 ### 🏅 Innovation Award – OdiseIA4Good Hackathon  
