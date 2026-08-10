@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Camilo Andres Diaz Gomez  
 
-I'm a **Systems Engineer and Data Scientist** with experience in **data engineering, machine learning, and artificial intelligence**. I'm passionate about optimizing data processes, analytics, and developing scalable cloud solutions.  
+I'm a **Systems Engineer and Data Engineer with experience in Data Scientist** specializing in **data engineering, machine learning, and artificial intelligence**. I'm passionate about optimizing data processes, analytics, and developing scalable cloud solutions.  
 
 🔹 **Technical Skills:**  
 - Programming: **Python, Spark, PySpark, SQL, NoSQL, R and Java**  
